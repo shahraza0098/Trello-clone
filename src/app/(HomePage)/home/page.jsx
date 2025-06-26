@@ -42,15 +42,6 @@ export default function HomePage() {
           </button>
         </div>
       </div>
-
-      {/* Feature Preview (optional) */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="bg-white rounded-xl shadow-md p-8 border border-gray-100">
-          <div className="h-64 bg-gray-100 rounded-lg flex items-center justify-center text-gray-400">
-            [App Screenshot Preview]
-          </div>
-        </div>
-      </div>
     </div>
   )
 }
