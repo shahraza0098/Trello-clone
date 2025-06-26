@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
-          {/* Logo placeholder - replace with your actual logo */}
+          {/* logo */}
           <div className="flex-shrink-0 flex items-center">
             <span className="text-xl font-bold text-indigo-600">Logo</span>
           </div>
